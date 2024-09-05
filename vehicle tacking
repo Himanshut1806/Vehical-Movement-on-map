@@ -1,0 +1,17 @@
+<div id="map"></div>
+    <script src="app.js"></script><!DOCTYPE html>
+<html>
+<head>
+    <title>Real-Time Vehicle Tracking</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <style>
+        #map {
+            height: 500px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
